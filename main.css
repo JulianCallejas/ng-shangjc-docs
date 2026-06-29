@@ -4047,7 +4047,7 @@ div:has(> table) {
 }
 .language-html,
 .language-typescript {
-  color: var(--color-white) !important;
+  color: #e84393 !important;
 }
 @property --tw-translate-x {
   syntax: "*";
